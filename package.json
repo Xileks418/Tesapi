@@ -1,0 +1,6 @@
+{
+  "name": "hesda-proxy",
+  "version": "1.0.0",
+  "main": "api/stok-akrab.js",
+  "type": "module"
+}
